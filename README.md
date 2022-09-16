@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on [Dominate.ai](https://dominate.ai/)
-
-- 🤝 I’m looking for help with [Remote Teams](https://www.remote-teams.io/)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **React Native**
 
 - 📫 How to reach me **akshaynagargoje0716@gmail.com**
 
