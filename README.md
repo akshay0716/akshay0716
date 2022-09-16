@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Nagargoje</h1>
-<h3 align="center">A passionate Reactjs and React Native developer from India, Maharashtra</h3>
+<h3 align="center">A passionate Senior Reactjs and React Native developer from India, Maharashtra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0716&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0716" /> </p>
 
